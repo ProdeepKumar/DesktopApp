@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Sources">
+        <file>A.PNG</file>
+        <file>B.PNG</file>
+        <file>C.PNG</file>
+        <file>+.PNG</file>
+	<file>rightIcons.PNG</file>
+	<file>signs.PNG</file>
+	<file>threedot.PNG</file>
+	<file>question.PNG</file>
+	<file>downarrow.PNG</file>
+	<file>edit.PNG</file>
+	<file>HHH.PNG</file>
+	<file>Heal.PNG</file>
+	<file>Kamran.PNG</file>
+	<file>down.PNG</file>
+	<file>mention.PNG</file>
+	<file>saved.PNG</file>
+	<file>more.PNG</file>
+	<file>star.PNG</file>
+	<file>pin.PNG</file>
+	<file>profiles.PNG</file>
+	<file>info.PNG</file>
+	<file>addpeople.PNG</file>
+	<file>kamran1.PNG</file>
+	<file>Heal1.PNG</file>
+	<file>replypeoples1.PNG</file>
+	<file>replypeoples2.PNG</file>
+	<file>likereact.PNG</file>
+	<file>thunder.PNG</file>
+	<file>lefticons.PNG</file>
+	<file>righticonss.PNG</file>
+    </qresource>
+</RCC>
